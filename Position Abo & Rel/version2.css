@@ -1,0 +1,33 @@
+#drapeauitalien {
+    position: relative;
+  width: 300px; height: 125px;
+    
+}
+
+#vert {
+    position: absolute;
+    background-color: green;    
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 66%;
+}
+
+#blanc {
+    position: absolute;
+    background-color: antiquewhite;
+    top: 0;
+    left: 33%;
+    right: 33%;
+    bottom: 0;
+    
+}
+
+#rouge {
+    position: absolute;
+    background-color: red;
+    top: 0;
+    left: 66%;
+    right: 0;
+    bottom: 0;
+}
